@@ -9,4 +9,4 @@ Uma base creative v5 que irei fazendo com o tempo, irá sair atualizações tota
 
 4- Fazendo isso você ja irá conseguir abrir e entrar na base.
 
-( AINDA NÃO POSSIVEL POIS FALTA SCRIPTS.)
+OBS: A BASE NÃO ACOMPANHA MODS DE ROUPAS, VEICULOS OU MAPAS, POR ELES SEREM PAGOS E EXCLUSIVOS!
