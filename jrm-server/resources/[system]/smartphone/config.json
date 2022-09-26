@@ -1,0 +1,48 @@
+{
+  "token": "",
+  "client": {
+    "bankType": "fleeca",
+    "uploadServer": "",
+    "videoServer": "seu.ip",
+    "case": "s9",
+    "isAndroid": false,
+
+    "apps": {
+      "calculator": "https://media.discordapp.net/attachments/964583878725607464/1004302832578609182/calculator.png",
+      "whatsapp": "https://media.discordapp.net/attachments/964583878725607464/1004302473365815296/whatsapp.png",
+      "yellowpages": "https://media.discordapp.net/attachments/964583878725607464/1004302473663627264/yellowpages.png",
+      "tinder": "https://media.discordapp.net/attachments/964583878725607464/1004302511424929812/tinder.png",
+      "instagram": "https://media.discordapp.net/attachments/964583878725607464/1004302569037910116/instagram.png",
+      "bank": "https://media.discordapp.net/attachments/964583878725607464/1004302632904577094/fleeca.png",
+      "minesweeper": "https://media.discordapp.net/attachments/964583878725607464/1004302523571646545/minado.png",
+      "truco": "https://media.discordapp.net/attachments/964583878725607464/1004302474280173660/truco.png",
+      "tor": "https://media.discordapp.net/attachments/964583878725607464/1004302473940447313/tor.png",
+      "notes": "https://media.discordapp.net/attachments/964583878725607464/1004302524142080171/notes.png",
+      "contacts": "https://media.discordapp.net/attachments/964583878725607464/1004302525131931778/phone.png",
+      "settings": "https://media.discordapp.net/attachments/964583878725607464/1004302510275711007/settings.png",
+      "sms": "https://media.discordapp.net/attachments/964583878725607464/1004302510653194280/sms.png",
+      "gallery": "https://media.discordapp.net/attachments/964583878725607464/1004302568412950569/gallery.png",
+      "phone": "https://media.discordapp.net/attachments/964583878725607464/1004302525131931778/phone.png",
+      "facetime": "https://cdn.discordapp.com/attachments/956316925011591198/974847770303270992/facetime.webp"
+    },
+
+    "useGameClock": true,
+    "phone_template": "XXXX-XXXX",
+    "backgroundURL": "https://media.discordapp.net/attachments/964583878725607464/1004302472661176340/wallpaper.jpg?width=266&height=473",
+    "disabledApps": ["twitter"]
+  },
+
+  "call_mode": "pma-voice",
+  "webhookURL": "",
+  "instagram_verify": "Verify",
+  "moderator": "Owner",
+  "item": "cellphone",
+  "db_driver": "oxmysql",
+  
+  "services": [
+    { "name": "Policia", "number":"190", "permission":"Police" },
+    { "name": "Paramédico", "number":"192", "permission":"Paramedic" },
+    { "name": "Mecânico", "number":"140", "permission":"Mechanic" },
+    { "name": "Staff", "number":"4002-8922", "permission":"Suporte" }
+  ]
+}
